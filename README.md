@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+我喜欢探索和科技
+
 <!--
 **paopaozhi/paopaozhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
