@@ -2,6 +2,8 @@
 
 我喜欢探索和科技
 
+擅长嵌入式，python，喜欢新技术。😉
+
 <!--
 **paopaozhi/paopaozhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
