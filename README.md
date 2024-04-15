@@ -1,18 +1,10 @@
-## 个人简历 ✍🏻
+My name is paopaozhi. I am an undergraduate student at Yangtze Normal University, China.
 
-擅长嵌入式，python，喜欢新技术。😉
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=paopaozhi&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
 
-<!--
-**paopaozhi/paopaozhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :pencil2: C / TypeScript / React / Rust / Python
+- :seedling: His current research focuses on AVG robots
+- :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
