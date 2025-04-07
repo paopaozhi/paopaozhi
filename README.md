@@ -7,4 +7,4 @@ My name is paopaozhi. I am an undergraduate student at Yangtze Normal University
 
 - :pencil2: C / TypeScript / React / Rust / Python
 - :seedling: His current research focuses on AVG robots
-- :thought_balloon: Ask me anything at [Discussions](https://github.com/paoapaozhi/paopaozhi/discussions/new)!
+- :thought_balloon: Ask me anything at [Discussions](https://github.com/paopaozhi/paopaozhi/discussions/new?category=ideas)!
