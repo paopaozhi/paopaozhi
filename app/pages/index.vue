@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { img } from '#build/ui/prose';
-
 const { data: page } = await useAsyncData('index', () => {
   return queryCollection('index').first()
 })
@@ -35,7 +33,5 @@ useSeoMeta({
     <LandingBlog :page />
     <LandingTestimonials :page />
     <LandingFAQ :page />
-
-    <!-- <img src="images/random-1.avif" alt="Hero" /> -->
   </UPage>
 </template>

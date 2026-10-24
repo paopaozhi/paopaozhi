@@ -1,0 +1,6 @@
+title: Enpm嵌入式包管理器
+description: 基于Python的嵌入式工程管理系统，功能包含软件包的下载和管理、编译器管理和嵌入式加速开发。
+image: /project/empm-project.png
+url: "http://github.com/paopaozhi/empm"
+tags: ["Python", "包管理"]
+date: "2025"

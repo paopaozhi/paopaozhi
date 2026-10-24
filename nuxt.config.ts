@@ -32,15 +32,4 @@ export default defineNuxtConfig({
       }
     }
   },
-
-  ogImage: {
-    zeroRuntime: true
-  },
-
-  prerender: {
-    routes: [
-      '/'
-    ],
-    crawlLinks: true
-  }
 })
