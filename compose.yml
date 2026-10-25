@@ -1,0 +1,6 @@
+services:
+  app:
+    image: paopaozhi:latest
+    build: Dockerfile
+    ports:
+      - ${PUBLIC_PORT:-3000}:3000
