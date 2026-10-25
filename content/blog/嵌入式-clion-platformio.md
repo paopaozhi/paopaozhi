@@ -2,7 +2,7 @@
 title: "clion 配置platformio环境"
 description: 使用Clion配置platformio环境，使其可以更好的编辑嵌入式。
 date: 2023-11-26
-image: https://th.bing.com/th/id/OIP.dEDpwXT7XGIAEmOQFw4xMgHaEK?w=297&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3
+image: "https://th.bing.com/th/id/OIP.dEDpwXT7XGIAEmOQFw4xMgHaEK?w=297&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3"
 minRead: 8
 author:
   name: 赵志豪
