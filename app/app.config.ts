@@ -24,15 +24,15 @@ export default defineAppConfig({
   },
   footer: {
     credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
-    register: "蜀ICP备2022001928号-3",
-    policeRegister: "渝公网安备50010602503953",
+    register: '蜀ICP备2022001928号-3',
+    policeRegister: '渝公网安备50010602503953',
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/paopaozhi',
       'target': '_blank',
       'aria-label': 'paopaozhi on GitHub'
-    },{
+    }, {
       'icon': 'i-simple-icons-gitee',
       'to': 'https://gitee.com/paopaozhi',
       'target': '_blank',
